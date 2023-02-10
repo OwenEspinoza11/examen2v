@@ -1,0 +1,17 @@
+C:\Users\JADPA-31\source\repos\examen2V\bin\Debug\net6.0-windows\examen2V.exe
+C:\Users\JADPA-31\source\repos\examen2V\bin\Debug\net6.0-windows\examen2V.deps.json
+C:\Users\JADPA-31\source\repos\examen2V\bin\Debug\net6.0-windows\examen2V.runtimeconfig.json
+C:\Users\JADPA-31\source\repos\examen2V\bin\Debug\net6.0-windows\examen2V.dll
+C:\Users\JADPA-31\source\repos\examen2V\bin\Debug\net6.0-windows\examen2V.pdb
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.csproj.AssemblyReference.cache
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.Form1.resources
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.csproj.GenerateResource.cache
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.AssemblyInfoInputs.cache
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.AssemblyInfo.cs
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.dll
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\refint\examen2V.dll
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.pdb
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\examen2V.genruntimeconfig.cache
+C:\Users\JADPA-31\source\repos\examen2V\obj\Debug\net6.0-windows\ref\examen2V.dll
